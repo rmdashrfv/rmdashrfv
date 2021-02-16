@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Michael Law
+I'm a software developer known for his controversial views on Roy's placement in the Super Smash Bros. Ultimate meta. In my spare time, I try to teach people why Raiz is more efficient and worthwhile than any other transition.
