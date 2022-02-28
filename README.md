@@ -9,8 +9,4 @@ For recruiters, I mean this in the most respectful way possible: if no one has e
 ### Vittles: Food Rewards & Takeout
 Vittles launches March 30, 2022! I'm doing an early testing phase to ensure things go as smoothly as possible. You can offer to be a tester and get Vittles VIP from day one by emailing me at [rmdashrfv@hey.com](mailto:rmdashrfv@hey.com?subject=I%20want%20to%20help%20test%20Vittles!)!
 
-![Demo](https://i.imgur.com/8OnQuNhl.jpg?raw=true)
-
-📱 [Download for iOS](https://apps.apple.com/us/app/vittles-food-rewards-takeout/id1556045797)
-
-🤖 [Download for Android](https://play.google.com/store/apps/details?id=com.eatvittles.vittles)
+![Demo](https://media.giphy.com/media/JYCcZWyOJklqNmFwxW/giphy.gif?raw=true)
