@@ -11,4 +11,4 @@ Vittles launches March 30, 2022! I'm doing an early testing phase to ensure thin
 
 If you want to learn more about Vittles, feel free to [check out the website or blog](https://linktr.ee/eatvittles).
 
-[![Demo](https://imgur.com/EqSiNyT?raw=true)](https://vittles.app.link)
+[![Demo](https://i.imgur.com/EqSiNyT.png?raw=true)](https://vittles.app.link)
