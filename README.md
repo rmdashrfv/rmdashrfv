@@ -11,6 +11,4 @@ Vittles is quite possibly the best food rewards app ever created! In simplest te
 
 All of this comes with [the most carefully designed user experience in online ordering](https://medium.com/vittles/a-food-app-that-works-better-for-everyone-33f2b3643e7): dietary restriction search, no paid listings, more transparency with virtual kitchens, and much more!
 
-The initial production test is complete and everything went better than expected! You can offer to be a tester and get Vittles VIP by emailing me at [rmdashrfv@hey.com](mailto:rmdashrfv@hey.com?subject=I%20want%20to%20help%20test%20Vittles!)!
-
-If you want to learn more about Vittles, feel free to [check out the website or blog](https://linktr.ee/eatvittles). Want to know what Vittles offers from a business standpoint? [Check out the partners page](https://partners.eatvittles.com).
+*The initial production test is complete and everything went better than expected! You can offer to be a tester and get Vittles VIP by emailing me at [rmdashrfv@hey.com](mailto:rmdashrfv@hey.com?subject=I%20want%20to%20help%20test%20Vittles!)! If you want to learn more about Vittles, feel free to [check out the website or blog](https://linktr.ee/eatvittles). Want to know what Vittles offers from a business standpoint? [Check out the partners page](https://partners.eatvittles.com).*
