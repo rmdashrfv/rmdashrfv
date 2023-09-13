@@ -1,4 +1,4 @@
-<b>Keep your future!</b>
+<h3>Announcing the <span>Tourmaline Project</span> soon!</h3>
 <div align="left">
   <img src="https://media.tenor.com/fhgf2YTDstkAAAAC/super-smash-bros-smash.gif" />
 </div>
