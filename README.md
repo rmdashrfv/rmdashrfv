@@ -1,4 +1,4 @@
-<h3>Project [M] (0.1.4) is now in Private Beta</h3>
+<h3>Project [M] (0.2.0) is now in public beta</h3>
 <div align="left">
   <img src="https://media.tenor.com/fhgf2YTDstkAAAAC/super-smash-bros-smash.gif" width="370" height="auto" />
 </div>
