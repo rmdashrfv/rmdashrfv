@@ -1,4 +1,4 @@
-<h3>Project 114 (0.4.81) is now available</h3>
+<h3>Project 114 (0.5.1) is now available</h3>
 <div align="left">
   <img src="https://media.tenor.com/fhgf2YTDstkAAAAC/super-smash-bros-smash.gif" width="370" height="auto" />
 </div>
