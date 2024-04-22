@@ -1,6 +1,6 @@
 <h3>Project 114 (0.5.1) is now available</h3>
 <div align="left">
-  <img src="https://media.tenor.com/fhgf2YTDstkAAAAC/super-smash-bros-smash.gif" width="370" height="auto" />
+  <img src="https://monarchlauncher.s3.amazonaws.com/NoteCaptureMode.gif" width="370" height="auto" />
 </div>
 <div style="margin: 0 auto;" align="left">
   
