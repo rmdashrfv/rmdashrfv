@@ -1,6 +1,8 @@
-<div align="left">
-  <img src="https://imgur.com/8JiTTJH.png" width="580" height="auto" />
-</div>
+<a href="https://monarchlauncher.com" target="_blank">
+  <div align="left">
+    <img src="https://imgur.com/8JiTTJH.png" width="580" height="auto" />
+  </div>
+</a>
 
 <br />
 
