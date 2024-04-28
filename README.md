@@ -12,7 +12,7 @@ I enjoy the process of working on products end to end, from wireframe to deploym
 
 Here's other stuff I've worked on:
 - [TabMagic](https://chromewebstore.google.com/detail/tabmagic-bookmark-tab-man/npgdnccnohhbnkiligkdfahfpekgjjka) - Bookmark tabs and links easily by using a browser-wide UI, and annotate & share them with teammates.
-- [Amethyst](https://marketplace.visualstudio.com/items?itemName=rmdashrfv.amethyst) - Real-time static typing analysis for Python with MyPy.
+- [Amethyst](https://marketplace.visualstudio.com/items?itemName=rmdashrfv.amethyst) - Real-time static typing analysis for Python. Perfect for learning and experimenting with new functions or APIs.
 
 <br/>
 
