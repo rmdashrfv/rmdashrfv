@@ -6,9 +6,9 @@
 
 <br />
 
-My name is Michael Law and I'm a programmer & designer in NYC. My latest work is a productivity app for macOS called [Monarch](https://monarchlauncher.com). It allows you to work significantly faster and navigate more efficiently, saving you multiple hours of work time every week. Check out the features [here on the blog](https://blog.monarchlauncher.com/introducing-monarch-665482f26db9) and if you like it, be sure to email me for student discounts at [rmdashrfv@hey.com](x)
+My name is Michael Law and I'm a programmer, designer and creator of [Monarch](https://monarchlauncher.com). You can check Monarch and other things I'm doing [here on the blog](https://blog.monarchlauncher.com/introducing-monarch-665482f26db9). If you're a student, be sure to email me for student discounts at rmdashrfv@hey.com
 
-I enjoy the process of working on products end to end, from wireframe to deployment, and have built software for every major platform: Windows, Mac, Linux, Chrome, Firefox, Android and iOS. Still going and more planned!
+I enjoy working on products end to end, from wireframe to deployment, and have built software for every major platform: Windows, Mac, Linux, Chrome, Firefox, Android and iOS. Still going and more planned! Previously, I worked as a platform engineer and created an event ticketing platform. Currently, I'm working to release a book I'm writing on ReactJS and design.
 
 Here's other stuff I've worked on:
 - [TabMagic](https://chromewebstore.google.com/detail/tabmagic-bookmark-tab-man/npgdnccnohhbnkiligkdfahfpekgjjka) - Bookmark tabs and links easily by using a browser-wide UI, and annotate & share them with teammates.
