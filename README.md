@@ -1,6 +1,6 @@
 <a href="https://monarchlauncher.com" target="_blank">
   <div align="left">
-    <img src="https://raw.githubusercontent.com/rmdashrfv/imgur/master/monarch_1.png" width="580" height="auto" />
+    <img src="https://raw.githubusercontent.com/rmdashrfv/imgur/master/SCR-20240425-siey.png" width="580" height="auto" />
   </div>
 </a>
 
