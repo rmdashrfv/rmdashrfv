@@ -5,7 +5,7 @@
 </a>
 <br/>
 
-Monarch is used all over the world in over 57 countries, including:
+Monarch is used all over the world in over 60 countries, including:
 
 🇺🇸 🇨🇦 🇪🇸 🇰🇷 🇿🇦 🇮🇹 🇮🇳 🇻🇳 🇮🇸 🇪🇪 🇷🇺 🇩🇪 🇩🇰 🇳🇿 🇦🇺
 
