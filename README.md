@@ -23,12 +23,13 @@ I enjoy working on products end to end, from wireframe to deployment, and have b
 
 **Other things I've worked on**
 - A browser agnostic bookmark syncing tool
-- An IDE extension for real-time static typing analysis in Python
+- An [IDE extension](https://marketplace.visualstudio.com/items?itemName=rmdashrfv.amethyst) for real-time static typing analysis in Python
 - Event ticketing platform (US only)
-- Online ordering platform +KDS for restaurants (web, iOS, Android)
+- [Online ordering platform +KDS for restaurants](https://blog.eatvittles.com/) (web, iOS, Android)
 
 <br/>
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rmdashrfv&theme=react&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rmdashrfv&theme=react)](https://streak-stats.demolab.com?user=rmdashrfv&theme=react)
 
 **What did you do before Monarch?**
