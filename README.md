@@ -26,6 +26,7 @@ I enjoy working on products end to end, from wireframe to deployment, and have b
 - An [IDE extension](https://marketplace.visualstudio.com/items?itemName=rmdashrfv.amethyst) for real-time static typing analysis in Python
 - Event ticketing platform (US only)
 - [Online ordering platform +KDS for restaurants](https://blog.eatvittles.com/) (web, iOS, Android)
+- Remote computer vision for automated video organization using Docker
 
 <br/>
 
