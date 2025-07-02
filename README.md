@@ -34,6 +34,7 @@ I enjoy working on products end to end, from wireframe to deployment, and have b
 
 **What did you do before Monarch?**
 - Software engineering instructor
+- Platform engineer
 - Web developer
 - Gymnastics/Cheer coach
 - Correctional officer
