@@ -39,4 +39,4 @@ I enjoy working on products end to end, from wireframe to deployment, and have b
 - Web developer
 - Gymnastics/Cheer coach
 - Correctional officer
-- Military
+- Military (ESSAYONS)
